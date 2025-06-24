@@ -4,7 +4,6 @@
 
 **Jorge Luis González–Castellanos**  
 *Estudiante de sociología – Universidad Nacional de Colombia, Sede Bogotá*  
-Participante voluntario del Observatorio Javeriano de las Desigualdades. Pontificia Universidad Javeriana, Bogotá
 
 [jlgonzalezca@unal.edu.co](mailto:jlgonzalezca@unal.edu.co)  
 
