@@ -1,11 +1,16 @@
 # Ejercicio de visualización de datos georreferenciados: análisis exploratorio de la zona norte de corabastos
 
-<p align="right">
-  <strong>Jorge Luis González–Castellanos</strong><br>
-  <small>Estudiante de sociología – Universidad Nacional de Colombia, Sede Bogotá</small><br>
-  <a href="mailto:jlgonzalezca@unal.edu.co">jlgonzalezca@unal.edu.co</a><br>
-  2025
-</p>
+<div align="right">
+
+**Jorge Luis González–Castellanos**  
+*Estudiante de sociología – Universidad Nacional de Colombia, Sede Bogotá*  
+Participante voluntario del Observatorio Javeriano de las Desigualdades. Pontificia Universidad Javeriana, Bogotá
+
+[jlgonzalezca@unal.edu.co](mailto:jlgonzalezca@unal.edu.co)  
+
+2025  
+
+</div>
 
 ## Sobre este producto 
 
@@ -19,8 +24,8 @@ El producto se realizó basado en [trabajos previos](https://github.com/JlGonzal
 
 Formato sugerido para referenciar este trabajo en un documento académico:
 
-González–Castellanos, J. L. (2025). *Ejercicio de visualización de datos georreferenciados: análisis exploratorio de la zona norte de corabastos* [Repositorio en GitHub]. https://github.com/JlGonzalezK/CORABASTOS
+> González–Castellanos, J. L. (2025). *Ejercicio de visualización de datos georreferenciados: análisis exploratorio de la zona norte de corabastos* [Repositorio en GitHub]. https://github.com/JlGonzalezK/CORABASTOS
 
 ## Fuentes Oficiales
 
-Departamento Administrativo Nacional de Estadística: www.dane.gov.co
+1. Departamento Administrativo Nacional de Estadística: www.dane.gov.co
