@@ -3,7 +3,7 @@
 <div align="right">
 
 **Jorge Luis González–Castellanos**  
-*Estudiante de sociología – Universidad Nacional de Colombia, Sede Bogotá*  
+*Estudiante de sociología. Universidad Nacional de Colombia, Sede Bogotá*  
 
 [jlgonzalezca@unal.edu.co](mailto:jlgonzalezca@unal.edu.co)  
 
