@@ -16,6 +16,6 @@ El producto se realizó basado en [trabajos previos](https://github.com/JlGonzal
 [Pulse aquí para ir al producto final (Dashboard de Power BI)](https://app.powerbi.com/view?r=eyJrIjoiMGJlMGFjNDAtYjNlMy00ZDFmLWI4YzMtMDM4ZmExMmQ5MWFlIiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9)
 
 
-## Fuentes Oficiales: 
+## Fuentes Oficiales
 
 Departamento Administrativo Nacional de Estadística: www.dane.gov.co
