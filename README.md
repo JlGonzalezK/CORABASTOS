@@ -1,11 +1,11 @@
 # Ejercicio de visualización de datos georreferenciados: análisis exploratorio de la zona norte de corabastos
 
 <p align="right">
-Jorge Luis González–Castellanos
-
-<h6><p align="right">
-**Estudiante de pregrado en sociología. Universidad Nacional de Colombia, Sede Bogotá
-</p></h6>
+  <strong>Jorge Luis González–Castellanos</strong><br>
+  <small>Estudiante de sociología – Universidad Nacional de Colombia, Sede Bogotá</small><br>
+  <a href="mailto:jlgonzalezca@unal.edu.co">jlgonzalezca@unal.edu.co</a><br>
+  2025
+</p>
 
 ## Sobre este producto 
 
